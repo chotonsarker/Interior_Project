@@ -1,0 +1,653 @@
+@media(max-width:991px){
+    .navbar-nav {
+        margin-left: 0;
+        margin: auto;
+        text-align: center;
+    }
+    .nav-link{
+        margin-left: 0;
+        margin: 5px 0;
+    }
+    .sign_in {
+        width: 50%;
+        margin: auto;
+    }
+    .lamp_light img{
+        width: 100%;
+        
+    }
+    .banner_content h1{
+        font-size: 34px;
+        font-weight: 700;
+    }
+    .lamp_light {
+        position: absolute;
+        left: -160px;
+        z-index: -1;
+        top: 50px;
+    }
+    .banner_content h3 {
+        font-size: 18px;
+    }
+    .more {
+        margin: 17px 0;
+    }
+    .chair img {
+        width: 70%;
+    }
+    .plan {
+        bottom: 50px;
+    }
+    .plan img{
+        width: 100%;
+    }
+    .height {
+        min-height: 70vh;
+    }
+    .more a {
+        font-size: 14px;
+        padding: 8px 20px;
+        margin: 14px 7px;
+    }
+    .Plus_section {
+        padding: 35px 0;
+    }
+    .chair_section {
+        padding: 50px;
+    }
+    .content h1 {
+        font-size: 40px;
+    }
+    .content p {
+        font-size: 13px;
+        margin-top: 9px;
+    }
+    .service_section {
+        padding: 55px 0;
+    }
+    .our_content h1 {
+        font-size: 30px;
+    }
+    .our_content p {
+        font-size: 13px;
+    }
+    .service_content {
+        margin: 45px 0px 5px;
+    }
+    .menu h3 {
+        color: #976a4e;
+        font-size: 15px;
+    }
+    .menu p {
+        font-size: 13px;
+
+    }
+    .project {
+        margin: 155px 0px 155px 50px;
+    }
+    .project_content h1 {
+        font-size: 33px;
+    }
+    .project_content p {
+        font-size: 15px;
+    }
+    .btn_project {
+        padding: 8px 20px;
+        font-size: 13px;
+    }
+    .owl-nav .owl-prev {
+        top: 87%;
+        left: 85%;
+    }
+    .owl-nav .owl-next {
+        right: 9%;
+    }
+    .ipsum {
+        bottom: 80px;
+        width: 60%;
+    }
+    .dolor {
+        padding: 80px;
+    }
+    .sitam_content h1 {
+        font-size: 30px;
+    }
+    .sitam_section {
+        padding: 0px 0 0;
+    }
+    .sitam_content p {
+        
+        font-size: 14px;
+    }
+    .btn_sitam {
+        margin-top: 35px;
+        padding: 5px 20px;
+        font-size: 14px;
+    }
+    .lorem_section {
+        padding: 120px 0;
+    }
+    .lorem_content h1 {
+        font-size: 30px;
+    }
+    .lorem_content p {
+        font-size: 16px;
+    }
+    .lorem_content span{
+        margin: 22px 0;
+    }
+    .Image_content {
+        height: 100%;
+    }
+    .Image_content img {
+        height: 100%;
+    }
+    .sofa_image {
+        right: -35px;
+        z-index: -1;
+        height: 95%;
+        width: 78%;
+        bottom: 90px;
+    }
+    .sofa_image img{
+        height: 100%;
+        width: 100%;
+    }
+    .sofa_content {
+        margin: 80px 0 30px;
+    }
+    .lamp {
+        padding: 90px;
+    }
+    .sofa_content p {
+        font-size: 15px;
+    }
+    .sofa_content h1 {
+        font-size: 30px;
+    }
+    .btn_sofa {
+        margin-top: 45px;
+        padding: 6px 18px;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    .sofa_content span {
+        margin: 25px 0;
+    }
+    .signup_content {
+        margin-top: 400px;
+    }
+    .signup_imgage img {
+        margin-top: 70px;
+    }
+    .signup_content h2 {
+        font-size: 25px;
+    }
+    .form {
+        padding-top: 30px;
+        padding: 20px 40px 80px;
+    }
+    .form form input {
+        padding: 6px 15px;
+    }
+    .form form input::placeholder{
+        font-size: 12px;
+    }
+    .form form textarea {
+        padding: 6px 15px;
+    }
+    .form form textarea::placeholder{
+        font-size: 12px;
+    }
+    .farniture img {
+        width: 78%;
+    }
+    .farniture {
+        bottom: -60px;
+    }
+    .signup_section {
+        padding: 0 0 82px;
+    }
+    footer {
+        padding: 110px 0 52px;
+    }
+    .footer_content ul li:first-child {
+        font-size: 16px;
+    }
+    .footer_content ul li a {
+        font-size: 14px;
+    }
+    .icon_list ul li a {
+        font-size: 22px;
+        margin-right: 16px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+    .light img {
+        width: 80%;
+    }
+}
+@media(max-width:767px){
+    .lamp_light{
+        display: none;
+    }
+    .chair img {
+        width: 65%;
+    }
+    .chair {
+        bottom: 65px;
+    }
+    .plan {
+        bottom: 40px;
+        width: 65%;
+        right: 0;
+    }
+    .our_content h1 {
+        font-size: 34px;
+    }
+    .our_content P{
+        font-size: 15px;
+    }
+    .menu p {
+        font-size: 15px;
+    }
+    .menu h3 {
+        font-size: 18px;
+    }
+    .project_content {
+        margin: 0 -50px 0 278px;
+    }
+    .project {
+        margin: 140px 0px 140px 60px;
+    }
+    .owl-nav .owl-prev {
+        top: 87%;
+        left: 83%;
+    }
+    .sitam_content {
+        margin: 60px 0 140px;
+    }
+    .ipsum {
+        bottom: 95px;
+        width: 60%;
+    }
+    .lorem_content {
+        margin: 0 -90px 0 317px;
+    }
+    .sofa_image {
+        height: 80%;
+        width: 80%;
+        bottom: 90px;
+    }
+    .sofa_content {
+        margin: 20px 30px 50px 0;
+    }
+    .sofa_section {
+        padding: 70px 0 0;
+    }
+    .lamp {
+        padding: 80px;
+    }
+    .light {
+        right: -230px;
+    }
+    .light img{
+        width: 60%;
+    }
+    .signup_content {
+        margin-top: 460px;
+    }
+    .form {
+        padding: 20px 40px 190px;
+    }
+    .farniture img {
+        width: 88%;
+    }
+    .footer_content ul {
+        text-align: center;
+    }
+    .footer_content {
+        margin-top: 30px;
+    }
+    .icon_list ul li a {
+        width: 40px;
+        height: 40px;
+        line-height: 35px;
+        margin: auto;
+        margin: 17px 9px 0;
+    }
+    .icon_list ul {
+        justify-content: center;
+    }
+    footer {
+        padding: 70px 0 52px;
+    }
+}
+@media(max-width:575px){
+    .chair img {
+        width: 50%;
+    }
+    .plan {
+        bottom: 60px;
+        width: 65%;
+        right: 0;
+    }
+    .more a {
+        font-size: 13px;
+        padding: 7px 18px;
+        margin: 14px 7px;
+    }
+    .banner_sectioon {
+        min-height: 68vh;
+    }
+    .height {
+        min-height: 56vh;
+    }
+    .content {
+        margin: 5px;
+    }
+    .Plus_section {
+        padding: 20px 0;
+    }
+    .content h1 {
+        font-size: 35px;
+    }
+    .content p {
+        font-size: 11px;
+    }
+    .our_content {
+        margin: 0px 72px;
+    }
+    .design_1 {
+        top: 6%;
+        transform: translateY(-6%);
+        width: 15%;
+    }
+    .design {
+        top: 6%;
+        transform: translateY(-6%);
+        width: 15%;
+    }
+    .service_content {
+        margin: 45px 45px 5px;
+    }
+    .tempor {
+        width: 55%;
+    }
+    .menu {
+        margin: 28px 0 0;
+    }
+    .menu a {
+        padding: 6px 20px;
+    }
+    .image {
+        width: 100%;
+    }
+    .project_section::after{
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 100%;
+        background-color: black;
+        top: 0;
+        left: 0;
+        opacity: .5;
+        z-index: -1;
+    }
+    .project {
+        margin: 160px 0px 160px;
+    }
+    .project_content {
+        text-align: center;
+        margin: 0 50px;
+    }
+    .project_content span {
+        margin: auto;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .project_content h1 {
+        font-size: 35px;
+    }
+    .project_content p {
+        font-size: 16px;
+    }
+    .owl-nav .owl-prev {
+        top: 87%;
+        left: 80%;
+    }
+    .ipsum {
+        bottom: 112px;
+        width: 60%;
+    }
+    .sitam_content {
+        margin: 70px 0 90px;
+    }
+    .sitam_content p {
+        font-size: 16px;
+    }
+    .Image_content {
+        width: 110%;
+    }
+    .Image_content img {
+        width: 100%;
+    }
+    .lorem_content {
+        text-align: center;
+        margin: 0 56px;
+    }
+    .lorem_section::after{
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 100%;
+        background-color: black;
+        top: 0;
+        left: 0;
+        opacity: .5;
+        z-index: -1;
+    }
+    .lorem_content span {
+        margin: 22px 0;
+        margin: auto;
+        margin-top: 20px;
+        background: aliceblue;
+        margin-bottom: 20px;
+    }
+    .lorem_content h1 {
+        font-size: 30px;
+        color: #e0d4bd;
+    }
+    .lorem_content p {
+        font-size: 16px;
+        color: #e0d4bd;
+    }
+    .btn_lorem {
+        margin-top: 40px;
+        padding: 6px 25px;
+        font-size: 13px;
+    }
+    .sofa_content {
+        margin: 90px 86px 50px 25px;
+    }
+    .sofa_image {
+        right: -35px;
+        z-index: -1;
+        height: 73%;
+        width: 82%;
+        bottom: 100px;
+    }
+    .sofa_section{
+        padding: 0;
+    }
+    .light {
+        right: -211px;
+        z-index: 1;
+        width: 90%;
+    }
+    .light img {
+    }
+    .signup_content {
+        margin-top: 380px;
+    }
+    .footer_content {
+        text-align: center;
+    }
+    .footer_content ul li:first-child {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 8px;
+    }
+    .icon_list ul {
+        justify-content: center;
+
+    }
+    footer {
+        padding: 80px 0 39px;
+    }
+    .farniture {
+        bottom: -40px;
+    }
+    .icon_list ul li a {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 35px;
+        margin: 0 10px;
+    }
+}
+@media(max-width:425px){
+    .banner_content h1 {
+        font-size: 30px;
+    }
+    .banner_content p {
+        font-size: 14px;
+    }
+    .banner_sectioon {
+        min-height: 65vh;
+    }
+    .height {
+        margin: 20px;
+    }
+    .our_content h1 {
+        font-size: 28px;
+    }
+    .owl-nav .owl-prev span {
+        font-size: 45px;
+        width: 30px;
+        height: 30px;
+        line-height: 22px;
+    }
+    .owl-nav .owl-next span {
+        font-size: 45px;
+        width: 30px;
+        height: 30px;
+        line-height: 22px;
+    }
+    .sitam_content {
+        margin: 40px 0 46px;
+    }
+    .dolor {
+        padding: 60px;
+    }
+    .ipsum {
+        bottom: 72px;
+    }
+    .sitam_content {
+        margin: 50px 0 60px;
+    }
+    .sofa_image {
+        right: -24px;
+        height: 50%;
+        width: 86%;
+        bottom: 78px;
+    }
+    .lamp {
+        padding: 60px;
+    }
+    .sitam_content {
+        margin: 50px 15px 60px;
+    }
+    .light {
+        right: -125px;
+        height: 37%;
+        z-index: 1;
+    }
+    .signup_content {
+        margin-top: 300px;
+    }
+    .farniture img {
+        width: 100%;
+    }
+    .form {
+        padding: 20px 40px 100px;
+    }
+    .sofa_image {
+        right: -21px;
+        z-index: -1;
+        height: 63%;
+        width: 85%;
+        bottom: 72px;
+    }
+    
+}
+@media(max-width:375px){
+    .plan {
+        bottom: 40px;
+    }
+    .chair {
+        bottom: 45px;
+    }
+    .chair_section {
+        padding: 40px;
+    }
+    .Plus_section {
+        padding: 20px 0;
+    }
+    .content h1 {
+        font-size: 34px;
+    }
+    .content p {
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .service_section {
+        padding: 30px 0;
+    }
+    .our_content {
+        margin: 18px;
+    }
+    .dolor {
+        padding: 52px;
+    }
+    .design {
+        top: 3%;
+        width: 14%;
+    }
+    .design_1 {
+        top: 3%;
+        width: 14%;
+    }
+    .service_content {
+        margin: 30px 20px 5px;
+    }
+    
+    .sofa_content {
+        margin: 55px 59px 37px 10px;
+    }
+    .sofa_content h1 {
+        font-size: 28px;
+    }
+    .owl-nav .owl-prev {
+        left: 76%;
+    }
+    .project {
+        margin: 100px 0px 146px;
+    }
+    
+    .navbar-brand{
+        width: 65%;
+    }
+    
+}
